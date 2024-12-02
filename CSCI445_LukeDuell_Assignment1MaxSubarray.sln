@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSCI445_LukeDuell_Assignment1MaxSubarray", "CSCI445_LukeDuell_Assignment1MaxSubarray\CSCI445_LukeDuell_Assignment1MaxSubarray.csproj", "{5823B8FD-43AE-423E-A160-CCEA73607A59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5823B8FD-43AE-423E-A160-CCEA73607A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5823B8FD-43AE-423E-A160-CCEA73607A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5823B8FD-43AE-423E-A160-CCEA73607A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5823B8FD-43AE-423E-A160-CCEA73607A59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8EF1769-EBE4-4AC8-8B0B-18E123C0D244}
+	EndGlobalSection
+EndGlobal
